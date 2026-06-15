@@ -1,0 +1,146 @@
+# Amplify AI Copilot Submission
+Author: Karin Tschudin
+Date: June 2026
+
+--------------------------------------------------
+1. OVERVIEW
+--------------------------------------------------
+This submission demonstrates the application of Microsoft Copilot across multiple business scenarios within a pharmaceutical supply chain context.
+
+The work focuses on identifying, analyzing, and mitigating critical supply chain risks impacting production continuity and FDA/GMP compliance.  
+All tasks are based on a consistent case involving three key components:
+- BIND567 (quality instability)
+- COMP042 (traceability gaps)
+- COMP043 (supplier non-compliance)
+
+The deliverables show how Copilot can be used to:
+- Transform unstructured information into structured outputs
+- Support decision-making with data analysis
+- Create professional documentation and communication artifacts
+
+--------------------------------------------------
+2. FILE LIST AND PURPOSE
+--------------------------------------------------
+
+Task 1 - E-mail summary.docx  
+Purpose: Executive summary of a critical email, highlighting key issues and recommended actions. [1](https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzg3Njg0MzY2MTg5MzYzMiJ9)
+
+Task 1 - Supply Chain Issues Review.docx  
+Purpose: Structured document outlining the business problem, key issues, and defined action items. [2](https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzg1NTY5NTg3MTk1MDg0OCJ9)
+
+Task 2 - Meeting Invite (image file)  
+Purpose: Outlook/Teams meeting invitation with a structured agenda for stakeholder alignment.
+
+Task 2 - Meeting Documentation & Action Plan.docx  
+Purpose: Meeting summary and detailed action plan with clearly defined responsibilities and timelines. [3](https://jnj.sharepoint.com/teams/itformeportal/Shared%20Documents/Client/microsoft-365-copilot/Copilot_Prompts_Guide.pdf?web=1)
+
+Task 3 - Supply Chain Report - Data Analysis.xlsx  
+Purpose: Data analysis file containing supplier performance metrics, delivery timelines, and risk indicators. [4](https://jnj-my.sharepoint.com/personal/ktschudi_its_jnj_com/_layouts/15/Doc.aspx?sourcedoc=%7B1F98E96D-7691-472D-B10B-0B111FECBD19%7D&file=Teams%20meeting%20minutes%20with%20Copilot.docx&action=default&mobileredirect=true&DefaultItemOpen=1)
+
+Task 3 - Supply Chain Issue Analysis Report.docx  
+Purpose: Risk assessment report translating data insights into business risks and mitigation strategies. [5](https://jnj.sharepoint.com/teams/itformeportal/Shared%20Documents/Global/2026_AI%20Playbook_Vol%201.pdf?web=1)
+
+Task 4 - Supply Chain Issue Compliance Report.pptx  
+Purpose: Executive presentation summarizing key findings, data insights, and mitigation strategy. [6](https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzg0NjU5MzYwNjQzNDgxNiJ9)
+
+Library of Copilot prompts.docx  
+Purpose: Documentation of prompts used to generate and refine all deliverables, demonstrating structured Copilot usage. [7](https://jnj.sharepoint.com/sites/globalfinanceportal/AllHomeDocuments/Talent%20Management/AI%20Accelerator%20Workshop%20Documents/03_Corporate%20Services/Copilot%20201_Corporate_Services_10JUN2026.pdf?web=1)
+
+
+--------------------------------------------------
+3. TASK OVERVIEW AND DELIVERABLES
+--------------------------------------------------
+
+Task 1 – Email Analysis & Issue Structuring  
+Objective:
+- Analyze critical email communication
+- Identify key risks and required actions
+
+Deliverables:
+- Task 1 - E-mail summary.docx  
+- Task 1 - Supply Chain Issues Review.docx  
+
+Outcome:
+- Identification of three major issues impacting quality, traceability, and supplier compliance  
+- Structured and actionable recommendations derived from unstructured input [1](https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzg3Njg0MzY2MTg5MzYzMiJ9)
+
+
+--------------------------------------------------
+
+Task 2 – Meeting Preparation & Action Planning  
+Objective:
+- Translate issues into a structured stakeholder discussion
+- Define actions and ownership
+
+Deliverables:
+- Meeting Invite (Outlook/Teams)  
+- Task 2 - Meeting Documentation & Action Plan.docx  
+
+Outcome:
+- Clear cross-functional alignment  
+- Defined action plan including immediate, short-term, and ongoing actions [3](https://jnj.sharepoint.com/teams/itformeportal/Shared%20Documents/Client/microsoft-365-copilot/Copilot_Prompts_Guide.pdf?web=1)
+
+
+--------------------------------------------------
+
+Task 3 – Data Analysis & Risk Assessment  
+Objective:
+- Analyze supply chain data to quantify risk
+- Develop insights to support decision-making
+
+Deliverables:
+- Task 3 - Supply Chain Report - Data Analysis.xlsx  
+- Task 3 - Supply Chain Issue Analysis Report.docx  
+
+Outcome:
+- Identification of supplier performance gaps  
+- Risk classification of key components  
+- Development of mitigation strategies such as alternative sourcing and safety stock adjustments [5](https://jnj.sharepoint.com/teams/itformeportal/Shared%20Documents/Global/2026_AI%20Playbook_Vol%201.pdf?web=1)
+
+
+--------------------------------------------------
+
+Task 4 – Executive Presentation  
+Objective:
+- Translate analysis into a concise, executive-level communication format
+
+Deliverables:
+- Task 4 - Supply Chain Issue Compliance Report.pptx  
+
+Outcome:
+- Clear visualization of risks and root causes  
+- Structured mitigation plan with phased implementation approach [6](https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzg0NjU5MzYwNjQzNDgxNiJ9)
+
+
+--------------------------------------------------
+
+Supporting Documentation – Copilot Prompt Library  
+Objective:
+- Demonstrate the structured use of Copilot
+
+Deliverables:
+- Library of Copilot prompts.docx  
+
+Outcome:
+- Full transparency of prompt engineering approach  
+- Evidence of iterative refinement for clarity, structure, and professionalism [7](https://jnj.sharepoint.com/sites/globalfinanceportal/AllHomeDocuments/Talent%20Management/AI%20Accelerator%20Workshop%20Documents/03_Corporate%20Services/Copilot%20201_Corporate_Services_10JUN2026.pdf?web=1)
+
+
+--------------------------------------------------
+4. HOW TO NAVIGATE AND REVIEW THE SUBMISSION
+--------------------------------------------------
+
+Recommended review sequence:
+
+1. Start with Task 1 to understand the initial problem and key supply chain risks.
+2. Review Task 2 to see how issues are translated into structured meeting outcomes and actions.
+3. Proceed to Task 3 to understand the data-driven analysis and risk evaluation.
+4. Review Task 4 for an executive-level synthesis of all findings and recommended actions.
+5. Refer to the Copilot Prompt Library to understand how each deliverable was created and refined.
+
+Review focus areas:
+
+- Logical flow from problem identification to solution development  
+- Clarity and professionalism of outputs  
+- Integration of regulatory (FDA/GMP) considerations  
+- Effectiveness of Copilot in enhancing productivity and output quality  
